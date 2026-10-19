@@ -1,0 +1,7 @@
+# Flathub application IDs for this desktop setup
+org.mozilla.firefox
+com.opera.opera-gx
+org.audacityteam.Audacity
+org.ardour.Ardour
+com.obsproject.Studio
+org.videolan.VLC
