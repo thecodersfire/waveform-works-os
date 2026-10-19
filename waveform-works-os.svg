@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#080b1a"/><stop offset="1" stop-color="#15142b"/></linearGradient><radialGradient id="r"><stop stop-color="#20d4c2" stop-opacity=".78"/><stop offset="1" stop-color="#20d4c2" stop-opacity="0"/></radialGradient></defs>
+<rect width="1920" height="1080" fill="url(#g)"/><circle cx="960" cy="440" r="440" fill="url(#r)"/><circle cx="960" cy="440" r="195" fill="none" stroke="#20d4c2" stroke-width="14"/>
+<path d="M0 900 420 700l300 120 300-230 350 180 550-360v670H0Z" fill="#0d1020"/><path d="M520 900 960 650l440 250" fill="none" stroke="#668cff" stroke-width="9"/>
+<text x="960" y="1010" fill="#f5f5ff" font-family="sans-serif" font-size="46" text-anchor="middle">Waveform Works</text></svg>
