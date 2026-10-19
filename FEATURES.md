@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/waveform-works-os-workspace features/waveform-works-os-plan features/waveform-works-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for music recording, audio editing, and podcast production:
+
+1. **Mixxx** — org.mixxx.Mixxx
+2. **GIMP** — org.gimp.GIMP
+3. **Inkscape** — org.inkscape.Inkscape
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
