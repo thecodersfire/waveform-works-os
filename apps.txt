@@ -56,3 +56,20 @@ org.gnome.meld
 org.kde.kate
 org.kde.konsole
 org.kde.kcalc
+
+# Fifteen further purpose-specific applications
+org.shotcut.Shotcut
+fr.handbrake.ghb
+org.openshot.OpenShot
+org.kde.glaxnimate
+org.kde.subtitlecomposer
+org.kde.kphotoalbum
+org.gnome.Loupe
+org.kde.kasts
+org.jellyfin.JellyfinDesktop
+org.kde.digikam
+org.gnome.Shotwell
+com.rawtherapee.RawTherapee
+org.kde.gwenview
+org.kde.kolourpaint
+org.kde.krita
