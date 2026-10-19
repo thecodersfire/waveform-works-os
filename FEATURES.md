@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for music recording, audio ed
 10. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **MuseScore Studio** (org.musescore.MuseScore) — write, play back, and print sheet music.
+2. **LMMS** (io.lmms.LMMS) — compose electronic music and loops.
+3. **Hydrogen** (org.hydrogenmusic.Hydrogen) — program drum patterns and percussion tracks.
+4. **Guitarix** (org.guitarix.Guitarix) — shape guitar tone with amp and effects processing.
+5. **OpenToonz** (io.github.OpenToonz) — produce hand-drawn and cutout 2D animation.
+6. **Synfig Studio** (org.synfig.SynfigStudio) — create vector-based 2D animations.
+7. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+8. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+9. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+10. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+11. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+12. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+13. **GNOME Papers** (org.gnome.Papers) — read project and reference PDFs.
+14. **GNOME Clocks** (org.gnome.clocks) — time work sessions and events.
+15. **GNOME Contacts** (org.gnome.Contacts) — organize partner and team contacts.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
