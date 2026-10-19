@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **GNOME Contacts** (org.gnome.Contacts) — organize partner and team contacts.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **Kwave** (org.kde.kwave) — record and edit audio waveforms with basic filters and analysis.
+2. **EasyEffects** (com.github.wwmm.easyeffects) — shape microphone and output audio with PipeWire effects.
+3. **Elisa** (org.kde.elisa) — organize and play local music libraries.
+4. **Kid3** (org.kde.kid3) — edit and normalize audio file tags and album metadata.
+5. **Kamoso** (org.kde.kamoso) — capture webcam photos and short video clips.
+6. **Minuet** (org.kde.minuet) — practice music theory and ear-training exercises.
+7. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+8. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+9. **Ark** (org.kde.ark) — open and create common project archive files.
+10. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+11. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+12. **Meld** (org.gnome.meld) — compare and merge source files, folders, and Git changes.
+13. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+14. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+15. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.

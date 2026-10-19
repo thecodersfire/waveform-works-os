@@ -39,3 +39,20 @@ org.stellarium.Stellarium
 org.gnome.Papers
 org.gnome.clocks
 org.gnome.Contacts
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kwave
+com.github.wwmm.easyeffects
+org.kde.elisa
+org.kde.kid3
+org.kde.kamoso
+org.kde.minuet
+org.kde.okular
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+org.gnome.meld
+org.kde.kate
+org.kde.konsole
+org.kde.kcalc
